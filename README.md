@@ -1,2 +1,4 @@
-# dog_egg
-LeNet分类
+#LeNet_cifar10
+在此目录下创建data和model文件夹
+data文件夹存放数据
+model文件夹存放训练好的模型
